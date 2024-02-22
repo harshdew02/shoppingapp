@@ -1,0 +1,85 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Gilroy-Black.ttf",
+      "sha1": "0ffaa4163e9dc0974128a2bdbbcb4f4ba210184d"
+    },
+    {
+      "path": "assets/fonts/Gilroy-BlackItalic.ttf",
+      "sha1": "8a08c24a6276c1090944352813d257c83b3caa00"
+    },
+    {
+      "path": "assets/fonts/Gilroy-Bold.ttf",
+      "sha1": "f91b7f43b772f208aed2b9faecac4be375437f42"
+    },
+    {
+      "path": "assets/fonts/Gilroy-BoldItalic.ttf",
+      "sha1": "e75aa41805c9bb4aa2b651a9912f3ccca254c7b7"
+    },
+    {
+      "path": "assets/fonts/Gilroy-Extrabold.ttf",
+      "sha1": "bc38ecda3b643ff6e673d49af4c538eb20a7f6e4"
+    },
+    {
+      "path": "assets/fonts/Gilroy-ExtraboldItalic.ttf",
+      "sha1": "b6e74197fcfb10ab01c493b2f2d21da462c57577"
+    },
+    {
+      "path": "assets/fonts/Gilroy-Heavy.ttf",
+      "sha1": "5f0e8ed0cf49db136a6967c957960b622325402f"
+    },
+    {
+      "path": "assets/fonts/Gilroy-HeavyItalic.ttf",
+      "sha1": "8f410b60cbcdb0f257a116e4428c9f8a4766d13e"
+    },
+    {
+      "path": "assets/fonts/Gilroy-Light.ttf",
+      "sha1": "0e326f197d88256245ece899ab95855cc1af8b18"
+    },
+    {
+      "path": "assets/fonts/Gilroy-LightItalic.ttf",
+      "sha1": "097c2dbadd762f29527ccfa434e7795b9a15335e"
+    },
+    {
+      "path": "assets/fonts/Gilroy-Medium.ttf",
+      "sha1": "e14306a91491f909c6e25bd86cbd3eb83b932526"
+    },
+    {
+      "path": "assets/fonts/Gilroy-MediumItalic.ttf",
+      "sha1": "7165869cac7dc98e92bad3b8291a573674f1f1b1"
+    },
+    {
+      "path": "assets/fonts/Gilroy-Regular.ttf",
+      "sha1": "43b31b30c36102e5aa886834faea9e25c35fbde6"
+    },
+    {
+      "path": "assets/fonts/Gilroy-RegularItalic.ttf",
+      "sha1": "8e985f5d6d83e7759b5705f463c0f2c424d7943e"
+    },
+    {
+      "path": "assets/fonts/Gilroy-Semibold.ttf",
+      "sha1": "70c251c1ab444281d7e4beab7fde2c96b941285c"
+    },
+    {
+      "path": "assets/fonts/Gilroy-SemiboldItalic.ttf",
+      "sha1": "ea610914add8b5d1d0460379f5a9ba13abacbca8"
+    },
+    {
+      "path": "assets/fonts/Gilroy-Thin.ttf",
+      "sha1": "c7f5ad758a7768d2e9cf92bdba21e1a71215eb2a"
+    },
+    {
+      "path": "assets/fonts/Gilroy-ThinItalic.ttf",
+      "sha1": "5541b0b811a54bed4964a8201a2112d184afa805"
+    },
+    {
+      "path": "assets/fonts/Gilroy-UltraLight.ttf",
+      "sha1": "d2ad0695b87d4ae2dbdcc804b43a4215f35055d5"
+    },
+    {
+      "path": "assets/fonts/Gilroy-UltraLightItalic.ttf",
+      "sha1": "5e060d474f82fc21a497425a74d794172133021d"
+    }
+  ]
+}
